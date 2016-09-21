@@ -43,7 +43,7 @@ Forked from the [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
   1. [License](#license)
 
 ## Babel aka ES6 doesn't work yet on most browsers
-  Don't worry about this, it should be already in our gruntfile
+  Don't worry about this, we use [babel](https://babeljs.io/) as a polyfill via grunt.
 
 ## Types
 
