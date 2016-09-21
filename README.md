@@ -6,7 +6,7 @@ Forked from the [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 ## Table of Contents
 
-  1. [ES6 doesn't work yet on most browsers](#Babel aka ES6 doesn't work yet on most browsers)
+  1. [ES6 doesn't work yet on most browsers](#babel-aka-es6-doesnt-work-yet-on-most-browsers)
   1. [Types](#types)
   1. [References](#references)
   1. [Objects](#objects)
