@@ -42,7 +42,7 @@ Forked from the [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
   1. [Contributors](#contributors)
   1. [License](#license)
 
-## Babel
+## Babel aka ES6 doesn't work yet on most browsers
   Don't worry about this, it should be already in our gruntfile
 
 ## Types
