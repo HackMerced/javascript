@@ -1,6 +1,6 @@
 # HackMerced JavaScript Style Guide() {
 
-"Do this and we'll have to refactor way less.*
+"Do this and we'll have to refactor way less."
 
 Forked from the [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
