@@ -1,20 +1,12 @@
-# Airbnb JavaScript Style Guide() {
+# HackMerced JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+"Do this and we'll have to refactor way less.*
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Other Style Guides
- - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
- - [React](react/)
- - [CSS-in-JavaScript](css-in-javascript/)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
+Forked from the [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 ## Table of Contents
 
+  1. [Using Babel](#Babel)
   1. [Types](#types)
   1. [References](#references)
   1. [Objects](#objects)
@@ -46,11 +38,12 @@ Other Style Guides
   1. [Performance](#performance)
   1. [Resources](#resources)
   1. [In the Wild](#in-the-wild)
-  1. [Translation](#translation)
   1. [The JavaScript Style Guide Guide](#the-javascript-style-guide-guide)
-  1. [Chat With Us About JavaScript](#chat-with-us-about-javascript)
   1. [Contributors](#contributors)
   1. [License](#license)
+
+## Babel
+  Don't worry about this, it should be already in our gruntfile
 
 ## Types
 
